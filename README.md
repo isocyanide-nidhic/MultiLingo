@@ -14,3 +14,8 @@ reliable translations. The MultiLingo Translator app revolutionizes language com
 by offering a convenient and versatile solution for language translation. With its support for 
 multiple languages and real-time translation capabilities, the app empowers users to bridge 
 language barriers and enhance cross-cultural interactions.
+
+## Snapshots 
+1] ![multilingospeechtotext](https://github.com/isocyanide-nidhic/MultiLingo/assets/90675995/edba3614-5fe4-4ab2-888f-3a3345beea50)
+2] ![multilingoUI](https://github.com/isocyanide-nidhic/MultiLingo/assets/90675995/2a571eee-824d-4d21-967b-6a74b4d2b0f3)
+3]  ![multilingotranslate](https://github.com/isocyanide-nidhic/MultiLingo/assets/90675995/d41dc0e2-540a-4ab6-9237-3c77e50000ca)
